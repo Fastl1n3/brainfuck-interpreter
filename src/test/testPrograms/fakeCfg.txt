@@ -1,0 +1,8 @@
+>->
+<->commands.CommandPrevUnit
++->commands.CommandInc
+-->commands.CommandDec
+.->commands.CommandPrintChar
+,->commands.CommandReadChar
+[->commands.CommandBeginWhile
+]->commands.CommandEndWhile
